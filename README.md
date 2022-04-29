@@ -1,26 +1,17 @@
 <img align="right" height="200" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif"/>
 
 ```diff
-Hi, I'm Victor 💻.
+Hi, I'm Taissa 💻.
 
 @@I'm a Front End Developer@@
 + Living in São Paulo, Brazil 🇧🇷.
 - I am studying software engineering
-! I love working with React, Typescript, Ruby on Rails, NodeJS
-# 📖 Systems design and functional programming
+! I love working with React, Typescript, NodeJS
+# 📖 React, Angular, Node
 ```
 <code>
-  <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+  <a href="https://www.linkedin.com/in/taissa-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
 </code>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have a bachelors degree in Computer Engineering at the University of Brasilia.\
-🌱 &nbsp;I'm on track for learning more about Functional Programming, Systems Design, and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at zaffalonvictor@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1VKocw9azIqsR3UpdFYz6YYtJdWrVoutf/view) for more details about me. I'm open to feedback and suggestions!
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
