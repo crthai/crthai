@@ -36,15 +36,15 @@ Hi, I'm Taissa 💻.
 
 
 <p align="center">
-<a href="https://github.com/vzaffalon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vzaffalon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vzaffalon&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/crthai">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crthai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crthai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vzaffalon.github.io/"><img src="https://img.shields.io/badge/-crthai.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US"><img src="https://img.shields.io/badge/-Victor%20Zaffalon%20Marra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://crthai.github.io/"><img src="https://img.shields.io/badge/-crthai.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
