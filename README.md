@@ -41,10 +41,3 @@ Hi, I'm Taissa 💻.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crthai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://crthai.github.io/"><img src="https://img.shields.io/badge/-crthai.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
