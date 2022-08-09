@@ -9,10 +9,6 @@ Hi, I'm Taissa 💻.
 ! I love working with React, Typescript, NodeJS
 # 📖 React, Angular, Node
 ```
-<code>
-  <a href="https://www.linkedin.com/in/taissa-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-</code>
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <br>
