@@ -6,7 +6,7 @@ Hi, I'm Taissa 💻.
 @@I'm a Front End Developer@@
 + Living in São Paulo, Brazil 🇧🇷.
 - I am studying software engineering
-! I love working with React, Typescript, NodeJS
+! I love working with React, Typescript, NodeJS, Java
 # 📖 React, Node, Java 
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
